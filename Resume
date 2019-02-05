@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Resume </title>
+</head>
+<body>
+    <h1> Austin Burgard</h1>
+    <img src = "https://scontent.fmkc1-1.fna.fbcdn.net/v/t1.0-9/14095758_294778654223866_937404957026214823_n.jpg?_nc_cat=107&_nc_ht=scontent.fmkc1-1.fna&oh=5831ebdee82e92837cca1f8cd577ecfc&oe=5CFD4241"/>
+    <a href="https://www.linkedin.com/in/austin-burgard/"> LinkedIn </a> <br>
+    <a href="https://www.facebook.com/awburgard"> Facebook </a> <br>
+    <a href="https://twitter.com/awburgard> Twitter </a>
+</body>
+
+
+</html>
