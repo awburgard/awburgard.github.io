@@ -1,2 +1,2 @@
-# austinburgard.github.io
+# awburgard.github.io
 Hello, this is my github
